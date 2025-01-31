@@ -151,7 +151,7 @@ const classes = [
   {
     name: 'Bhangra',
     instructor: 'Rahul',
-    time: 'Saturday - 7:00 AM - 8:00 AM',
+    time: 'Monday - Saturday - 7:00 AM - 8:00 AM',
     capacity: 20,
     level: 'All Levels',
     duration: '60 min'
@@ -159,7 +159,7 @@ const classes = [
   {
     name: 'Rehabpilates',
     instructor: 'Sumit',
-    time: 'Friday - 7:00 AM - 8:00 AM',
+    time: 'Monday - Saturday - 7:00 AM - 8:00 AM',
     capacity: '20',
     level: 'All Levels',
     duration: '60 min'
