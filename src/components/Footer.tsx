@@ -10,10 +10,8 @@ export default function Footer() {
             <h3 className="text-2xl font-bold mb-4">DOPAMINE</h3>
             <p className="mb-4">Where fitness meets happiness. Transform your body and mind with us.</p>
             <div className="flex flex-wrap gap-4">
-              <a href="#" className="hover:text-gray-200"><Facebook className="h-6 w-6" /></a>
-              <a href="#" className="hover:text-gray-200"><Instagram className="h-6 w-6" /></a>
-              <a href="#" className="hover:text-gray-200"><Twitter className="h-6 w-6" /></a>
-              <a href="#" className="hover:text-gray-200"><Youtube className="h-6 w-6" /></a>
+              <a href="https://www.facebook.com/p/Dopamine-feel-good-gym-61559824750060/" className="hover:text-gray-200"><Facebook className="h-6 w-6" /></a>
+              <a href="https://www.instagram.com/dopamine_feelgood_gym/?hl=en" className="hover:text-gray-200"><Instagram className="h-6 w-6" /></a>
             </div>
           </div>
           
@@ -41,7 +39,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="h-5 w-5 flex-shrink-0" />
-                <span>info@dopamine.in</span>
+                <span>info@dopaminegym.in</span>
               </li>
             </ul>
           </div>

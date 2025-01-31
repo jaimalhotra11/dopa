@@ -53,22 +53,6 @@ const personalTrainers = [
     ]
   },
   {
-    name: "Pawan Chandila",
-    image: "./assets/images/pawan.JPG",
-    description: "Certified trainer specializing in fat loss and muscle building",
-    tier: "silver",
-    price: "",
-    experience: "10 years of experience",
-    certifications: [
-      "K11 Certified Personal Trainer",
-      "CPR & AED Certified"
-    ],
-    specialties: [
-      "Fat Loss",
-      "Muscle Building"
-    ]
-  },
-  {
     name: "Akash Sunar",
     image: "assets/images/akash verma.jpg",
     description: "Weight loss transformation expert",

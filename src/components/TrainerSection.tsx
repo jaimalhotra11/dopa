@@ -14,9 +14,9 @@ const trainers = [
     image: "./assets/images/parul.jpg"
   },
   {
-    name: "Pawan Chandila",
-    specialty: "Muscle Building",
-    image: "./assets/images/pawan.JPG"
+    name: "Rohit Jaglan",
+    specialty: "Functional Training",
+    image: "./assets/images/rohit.jpg"
   }
 ];
 

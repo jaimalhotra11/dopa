@@ -77,9 +77,7 @@ const JobCard: React.FC<JobCardProps> = ({
           >
             Apply Now
           </Link>
-          <button className="text-[#116DEC] hover:underline">
-            Save for Later
-          </button>
+          
         </div>
       </div>
     </motion.div>

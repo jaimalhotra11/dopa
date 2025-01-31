@@ -79,7 +79,7 @@ const classes = [
   {
     name: 'Yoga',
     instructor: 'Nikhil',
-    time: 'Monday - 7:00 AM - 8:00 AM',
+    time: 'Monday - Saturday - 7:00 AM - 8:00 AM',
     capacity: 20,
     level: 'All Levels',
     duration: '60 min'
@@ -87,7 +87,7 @@ const classes = [
   {
     name: 'Core Blasters',
     instructor: 'Akash',
-    time: 'Monday & Friday - 7:00 PM - 8:00 PM',
+    time: 'Monday - Saturday - 7:00 PM - 8:00 PM',
     capacity: 20,
     level: 'All Levels',
     duration: '60 min'
@@ -95,7 +95,7 @@ const classes = [
   {
     name: 'Circuit Training',
     instructor: 'Rohit',
-    time: 'Monday - 7:00 AM - 8:00 AM & Saturday - 7:00 PM - 8:00 PM',
+    time: 'Monday - Saturday - 7:00 AM - 8:00 AM',
     capacity: 20,
     level: 'All Levels',
     duration: '60 min'
@@ -103,7 +103,7 @@ const classes = [
   {
     name: 'Latination',
     instructor: 'Sumit',
-    time: 'Tuesday - 7:00 PM - 8:00 PM',
+    time: 'Monday - Saturday - 7:00 PM - 8:00 PM',
     capacity: 20,
     level: 'All Levels',
     duration: '60 min'
@@ -111,7 +111,7 @@ const classes = [
   {
     name: 'Functional Training',
     instructor: 'Akash',
-    time: 'Wednesday - 7:00 AM - 8:00 AM',
+    time: 'Monday - Saturday - 7:00 AM - 8:00 AM',
     capacity: 20,
     level: 'All Levels',
     duration: '60 min'
@@ -119,7 +119,7 @@ const classes = [
   {
     name: 'Dance Fitness',
     instructor: 'Suvneet',
-    time: 'Wednesday - 7:00 PM - 8:00 PM',
+    time: 'Monday - Saturday - 7:00 PM - 8:00 PM',
     capacity: 20,
     level: 'All Levels',
     duration: '60 min'
@@ -127,15 +127,23 @@ const classes = [
   {
     name: 'Stretching Class',
     instructor: 'Arun',
-    time: 'Thursday - 7:00 AM - 8:00 AM',
+    time: 'Monday - Saturday - 7:00 AM - 8:00 AM',
     capacity: 20,
     level: 'All Levels',
     duration: '45 min'
   },
   {
     name: 'Kick Boxing',
-    instructor: 'Bharat',
-    time: 'Thursday - 7:00 PM - 8:00 PM',
+    instructor: 'Ranjeet Jha',
+    time: 'Monday - Saturday - 7:00 PM - 8:00 PM',
+    capacity: 20,
+    level: 'All Levels',
+    duration: '60 min'
+  },
+  {
+    name: 'Tabata',
+    instructor: 'Arvind Minz',
+    time: 'Monday - Saturday -7:00 PM - 8:00 PM',
     capacity: 20,
     level: 'All Levels',
     duration: '60 min'
