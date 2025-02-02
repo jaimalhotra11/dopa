@@ -6,6 +6,7 @@ import VirtualTour from '../components/VirtualTour';
 import TrainerSection from '../components/TrainerSection';
 import ClassSchedule from '../components/ClassSchedule';
 import SuccessStories from '../components/SuccessStories';
+import Carousel from '../components/Carousel';
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Hero />
       <Stats />
       <Facilities />
+      <Carousel />
       <TrainerSection />
       <VirtualTour />
       <ClassSchedule />
