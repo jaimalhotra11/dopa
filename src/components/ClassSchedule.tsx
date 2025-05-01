@@ -12,7 +12,7 @@ const schedule = {
     ],
     specialty: "Strength & Conditioning"
   },
-  "Rohit Jaglan": {
+  "Kapil": {
     slots: [
       { time: "08:00 AM", available: 5 },
       { time: "04:00 PM", available: 1 },
@@ -20,7 +20,7 @@ const schedule = {
     ],
     specialty: "Functional training"
   },
-  "Akash Verma": {
+  "Mohan Sharma": {
     slots: [
       { time: "10:00 AM", available: 4 },
       { time: "02:00 PM", available: 2 },

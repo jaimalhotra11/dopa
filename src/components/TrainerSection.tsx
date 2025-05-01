@@ -9,14 +9,14 @@ const trainers = [
     image: "./assets/images/rajvansh.jpg"
   },
   {
-    name: "Parul Lamba",
+    name: "Kapil",
     specialty: "Body Toning",
-    image: "./assets/images/parul.jpg"
+    image: "./assets/images/kapil.jpg"
   },
   {
-    name: "Rohit Jaglan",
+    name: " Singh",
     specialty: "Functional Training",
-    image: "./assets/images/rohit.jpg"
+    image: "./assets/images/kuldeep.jpg"
   }
 ];
 

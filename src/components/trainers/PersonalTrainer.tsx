@@ -75,7 +75,7 @@ const personalTrainers = [
     ]
   },
   {
-    name: "Mohan sharama",
+    name: "Mohan sharma",
     image: "./assets/images/mohan.jpg",
     description: "Expert in weight loss and muscle building",
     tier: "silver",
