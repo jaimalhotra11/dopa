@@ -2,13 +2,13 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const staff = [
-  {
-    name: 'Ajay Thapa',
-    role: 'Club Manager',
-    image: 'assets/images/thapa.jpg',
-    description: 'Oversees daily operations and ensures member satisfaction.',
-    expertise: 'Business Management, Customer Service'
-  },
+  // {
+  //   name: 'Ajay Thapa',
+  //   role: 'Club Manager',
+  //   image: 'assets/images/thapa.jpg',
+  //   description: 'Oversees daily operations and ensures member satisfaction.',
+  //   expertise: 'Business Management, Customer Service'
+  // },
   {
     name: 'Akash Nigam',
     role: 'Sales Manager',
@@ -23,13 +23,13 @@ const staff = [
     description: 'Coordinates wellness programs and member health initiatives.',
     expertise: 'Wellness Planning, Health Education'
   },
-  {
-    name: 'Yudhveer Chauhan',
-    role: 'Assistant Sales Manager',
-    image: 'assets/images/yudhveer.jpg',
-    description: 'Maintains our world-class facilities and equipment.',
-    expertise: 'Facility Management, Equipment Maintenance'
-  }
+  // {
+  //   name: 'Yudhveer Chauhan',
+  //   role: 'Assistant Sales Manager',
+  //   image: 'assets/images/yudhveer.jpg',
+  //   description: 'Maintains our world-class facilities and equipment.',
+  //   expertise: 'Facility Management, Equipment Maintenance'
+  // }
 ];
 
 const Management = () => {

@@ -3,21 +3,21 @@ import { motion } from 'framer-motion';
 import { Users } from 'lucide-react';
 
 const generalTrainers = [
-  {
-    name: "Prashant Chandila",
-    image: "./assets/images/prashant.jpg",
-    description: "Specializes in group fitness classes and general workout routines"
-  },
+  // {
+  //   name: "Prashant Chandila",
+  //   image: "./assets/images/prashant.jpg",
+  //   description: "Specializes in group fitness classes and general workout routines"
+  // },
   {
     name: "Om Keshon",
     image: "./assets/images/om.JPG",
     description: "Expert in cardio training and weight management programs"
   },
-  {
-    name: "Kapil",
-    image: "./assets/images/kapil.jpg",
-    description: "Focuses on beginner-friendly training and form correction"
-  }
+  // {
+  //   name: "Kapil",
+  //   image: "./assets/images/kapil.jpg",
+  //   description: "Focuses on beginner-friendly training and form correction"
+  // }
 ];
 
 const GeneralTrainer = () => {

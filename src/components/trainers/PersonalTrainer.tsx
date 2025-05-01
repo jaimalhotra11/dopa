@@ -22,24 +22,25 @@ const personalTrainers = [
     ]
   },
   {
-    name: "Rohit Jaglan",
-    image: "./assets/images/rohit.jpg",
+    name: "Kuldeep singh ",
+    image: "./assets/images/kuldeep.jpg",
     description: "Certified personal trainer and expert in fat loss, functional training, and kettlebell workouts",
     tier: "gold",
     price: "",
-    experience: "3 years of experience",
+    experience: "7 years of experience",
     certifications: [
-      "CPT from IIFEM"
+      "DPT from k11 school of fitness sciences",
+      "CPR n AED certified"
     ],
     specialties: [
-      "Fat Loss",
+      "strength training",
       "Functional Training",
-      "Kettlebell Workouts"
+      "fat loss & muscle gain"
     ]
   },
   {
-    name: "Parul Lamba",
-    image: "./assets/images/parul.jpg",
+    name: "Kapil",
+    image: "./assets/images/kapil.jpg",
     description: "Certified personal trainer with expertise in fat loss",
     tier: "silver",
     price: "",
@@ -53,35 +54,42 @@ const personalTrainers = [
     ]
   },
   {
-    name: "Akash Sunar",
-    image: "assets/images/akash verma.jpg",
+    name: "Pahul Preet Singh",
+    image: "assets/images/pahul.jpg",
     description: "Weight loss transformation expert",
     tier: "silver",
     price: "",
     experience: "4 years in transformation",
     certifications: [
-      "Certification Guru Aesthetic Fitness Academy",
-      "Personal Training, Circuit Training, and CPR"
+      "Dpt from K11 school of fitness science",
+      "Body transformation Coach Level 1 and 2 by FEA and Ace",
+      "CPR and AED certified",
+      "Kettelbell Trainer Level 1 and 2"
     ],
     specialties: [
-      "Weight Loss",
-      "Transformation"
+      "Fat Loss",
+      "Muscle Gain",
+      "Strength training",
+      "⁠HIIT workout",
+      "Kickboxing"
     ]
   },
   {
-    name: "Ajay Lehri",
-    image: "./assets/images/lehri.jpg",
+    name: "Mohan sharama",
+    image: "./assets/images/mohan.jpg",
     description: "Expert in weight loss and muscle building",
     tier: "silver",
     price: "",
-    experience: "5+ years of experience",
+    experience: "6+ years of experience",
     certifications: [
-      "Certification Guru Aesthetic Fitness Academy",
-      "Personal Training, Circuit Training, and CPR"
+      "DPT from k11 school of fitness sciences",
+      "CPR n AED certified"
     ],
     specialties: [
-      "Weight Loss",
-      "Muscle Building"
+      "strength training",
+      "functional workout",
+      "fat loss & muscle gain",
+      "Flexibility & stretching"
     ]
   },
   {
