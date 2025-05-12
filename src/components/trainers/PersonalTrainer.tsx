@@ -53,27 +53,27 @@ const personalTrainers = [
       "Fat Loss"
     ]
   },
-  {
-    name: "Pahul Preet Singh",
-    image: "assets/images/pahul.jpg",
-    description: "Weight loss transformation expert",
-    tier: "silver",
-    price: "",
-    experience: "4 years in transformation",
-    certifications: [
-      "Dpt from K11 school of fitness science",
-      "Body transformation Coach Level 1 and 2 by FEA and Ace",
-      "CPR and AED certified",
-      "Kettelbell Trainer Level 1 and 2"
-    ],
-    specialties: [
-      "Fat Loss",
-      "Muscle Gain",
-      "Strength training",
-      "⁠HIIT workout",
-      "Kickboxing"
-    ]
-  },
+  // {
+  //   name: "Pahul Preet Singh",
+  //   image: "assets/images/pahul.jpg",
+  //   description: "Weight loss transformation expert",
+  //   tier: "silver",
+  //   price: "",
+  //   experience: "4 years in transformation",
+  //   certifications: [
+  //     "Dpt from K11 school of fitness science",
+  //     "Body transformation Coach Level 1 and 2 by FEA and Ace",
+  //     "CPR and AED certified",
+  //     "Kettelbell Trainer Level 1 and 2"
+  //   ],
+  //   specialties: [
+  //     "Fat Loss",
+  //     "Muscle Gain",
+  //     "Strength training",
+  //     "⁠HIIT workout",
+  //     "Kickboxing"
+  //   ]
+  // },
   {
     name: "Mohan sharma",
     image: "./assets/images/mohan.jpg",
